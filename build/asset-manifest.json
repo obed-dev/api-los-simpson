@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c44a4632.css",
+    "main.js": "/static/js/main.ea5c5049.js",
+    "static/js/592.93e97b47.chunk.js": "/static/js/592.93e97b47.chunk.js",
+    "static/media/lossimpsons.png": "/static/media/lossimpsons.3a9a1d3514daa0035512.png",
+    "index.html": "/index.html",
+    "main.c44a4632.css.map": "/static/css/main.c44a4632.css.map",
+    "main.ea5c5049.js.map": "/static/js/main.ea5c5049.js.map",
+    "592.93e97b47.chunk.js.map": "/static/js/592.93e97b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44a4632.css",
+    "static/js/main.ea5c5049.js"
+  ]
+}
